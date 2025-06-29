@@ -1,0 +1,2 @@
+U:\CornerGrocer\CornerGrocer\Debug\CornerGrocer.exe
+U:\CornerGrocer\CornerGrocer\Debug\CornerGrocer.pdb
